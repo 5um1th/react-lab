@@ -44,6 +44,9 @@ http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/
 ### Sites using React
 https://github.com/facebook/react/wiki/Sites-Using-React
 
+### React Rocks -  800 searchable examples 
+https://react.rocks/
+
 ## Videos
 ### ReactJS and the Flux architecture
 https://www.phproundtable.com/episode/implementing-reactjs-and-the-flux-application-architecture
